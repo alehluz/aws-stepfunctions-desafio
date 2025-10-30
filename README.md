@@ -1,6 +1,6 @@
 # aws-stepfunctions-desafio
 
-Este repositório foi criado como parte do desafio **"Consolidando Workflows Automatizados com AWS Step Functions"** da DIO.
+Este repositório foi criado como parte do desafio **"Explorando Workflows Automatizados com AWS Step Functions"** da DIO.
 
 ## Objetivo do Desafio
 
