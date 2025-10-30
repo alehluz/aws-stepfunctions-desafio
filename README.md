@@ -43,10 +43,10 @@ O fluxo seria: PrimeiroLambda → SegundoLambda → Fim
 ##  Prints da Execução
 
 ### Diagrama Visual
-![Step Functions Diagrama](./images/stepfunctions-diagrama.png)
+![Step Functions Diagrama](stepfunctions-diagrama.png)
 
 ### Resultado da Execução
-![Execução Workflow](./images/stepfunctions-execucao.jpg)
+![Execução Workflow](stepfunctions-execucao.jpg)
 
 ---
 
