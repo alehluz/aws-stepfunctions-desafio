@@ -33,7 +33,7 @@ O exercício também mostrou que:
 
 ##  Ideia adicional: duas funções Lambda
 
-Para fixar o aprendizado, também foi considerada uma ideia de exemplo com duas funções Lambda:
+Para fixar o aprendizado, também foi considerada uma ideia de exemplo com duas funções Lambda, para teste e aprendizado inicial:
 
 1. **PrimeiroLambda** → executa uma mensagem inicial  
 2. **SegundoLambda** → finaliza o fluxo com uma resposta
