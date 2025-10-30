@@ -46,7 +46,7 @@ O fluxo seria: PrimeiroLambda → SegundoLambda → Fim
 ![Step Functions Diagrama](./images/stepfunctions-diagrama.png)
 
 ### Resultado da Execução
-![Execução Workflow](./images/stepfunctions-execucao.png)
+![Execução Workflow](./images/stepfunctions-execucao.jpg)
 
 ---
 
